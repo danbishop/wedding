@@ -1,5 +1,6 @@
 # Site settings
 theme: jekyll-theme-easy-wedding
+remote_theme: jekyll-theme-easy-wedding
 title: Dan & Benji
 email: d@nbishop.uk
 url: https://danandbenji.com # Be sure to include http:// or https://
